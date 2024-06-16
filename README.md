@@ -5,9 +5,8 @@
 - 👯 I’m looking to collaborate on Cloud Computing, GCP, AWS, Software Development, DevOps, Cloud Infrastructure, Solutions Architecting, Web Development, Technical Support
 - 📫 How to reach me: https://www.linkedin.com/in/chukwuemeka-aham-dev/ 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact:
 
-# 🖨️ Technologies Icons
+# 🖨 Technologies
 
 ### 🚍 Communication
 
