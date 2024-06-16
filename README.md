@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company); Website, Webadmin and Management Dashboard (React(Nextjs), Javascript, Typescript, HTML, CSS, TailwindCSS, Figma, MongoDB, Mongoose, Docker, GitLab, Python(Django), JIRA, OpenAPI(SwaggerUI), Github, Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot etc)
 - 🌱 I’m currently learning MLOps on DataTalks Club (Zoomcamp 2024 Cohort)
-- 👯 I’m looking to collaborate on Cloud Computing, GCP, AWS, Software Development, DevOps, Cloud Infrastructure, Solutions Architecting, Web Development, Technical Support
+- 👯 I’m looking to collaborate on project within Cloud Computing, GCP, AWS, Web Development, DevOps, Cloud Infrastructure, Solutions Architecting, and Technical Support
 - 📫 How to reach me: https://www.linkedin.com/in/chukwuemeka-aham-dev/ 
 - 😄 Pronouns: He/Him
 
