@@ -1,4 +1,4 @@
-### Hi there 👋 I'm open to opportunities in roles such as Software Developer, Frontend Engineer, Cloud Developer, Cloud Engineer, React Developer.
+### Hi there 👋 I'm open to opportunities in roles such as Web Developer, Frontend Engineer, Cloud Developer, Cloud Engineer, React(Nextjs) Developer.
 
 - 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company); Website, Webadmin and Management Dashboard (React(Nextjs), Javascript, Typescript, HTML, CSS, TailwindCSS, Figma, MongoDB, Mongoose, Docker, GitLab, Python(Django), JIRA, OpenAPI(SwaggerUI), Github, Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot etc)
 - 🌱 I’m currently learning MLOps on DataTalks Club (Zoomcamp 2024 Cohort)
