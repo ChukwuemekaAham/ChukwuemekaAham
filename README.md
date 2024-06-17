@@ -37,9 +37,6 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"> |        Vim         | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png"> |   Android Studio   | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> | Visual Studio Code | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png"> |      eclipse       | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/190887571-ddd87d6e-77f8-41e7-b755-9b6d68e4fab7.png"> |        Atom        | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png"> |    Sublime Text    | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"> |      Postman       | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"> |        Jira        | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"> |  Jupyter Notebook  | 
@@ -54,7 +51,6 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"> |    Bootstrap    | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"> |   Tailwind CSS  | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"> |     Swagger     | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png"> |    Firebase     | 
 | <img height="50" src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png"> |    Auth0     | 
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a"> |    styled-components     | 
 
@@ -82,6 +78,7 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"> |     Node.js     | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"> |     Express     | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"> |      Redux      | 
+| <img height="50" src=""> |      Zustand      | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png"> |      Jest       | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"> |     webpack     | 
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/85880a3a-e65b-4e4b-a102-6c3f225b9aba"> |       Pug       |
