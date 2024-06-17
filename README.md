@@ -87,6 +87,7 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | :---------------------------------------------------------------------------------------------------------------------------: |:---------------:| 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> |   JavaScript    |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> |      React      | 
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> |      React Native     | 
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"> |     Next.js     | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"> |     Angular     | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> |     Vue.js      | 
@@ -122,11 +123,6 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"> |     MatLab     | 
 
-### 📱 Mobile Dev
-
-|                                                        Technology Icon                                                        | Technology Name | 
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"> |     Android     | 
 
 ### 🧪 Testing
 
