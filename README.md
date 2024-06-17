@@ -64,7 +64,8 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 |                                                        Technology Icon                                                        | Technology Name | 
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"> |      Figma      | 
-| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed"> |      Canva      | 
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed"> |      Canva      |
+| <img height="50" src=""> |      Adobe Illustrator      |
 
 ### 📜 JavaScript
 
