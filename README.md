@@ -20,7 +20,6 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png"> |    websocket    | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png"> |      gRPC       | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"> |      REST       | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png"> |      kafka      | 
 
 ### 🧰 Version Control
 
@@ -92,6 +91,7 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"> |     Python      | 
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4"> |     Django      | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png"> |     pytest      |
+
 ### 🧮 Fortran
 
 |                                                        Technology Icon                                                        | Technology Name |
@@ -139,6 +139,14 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"> | Microsoft Azure | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png"> |    IBM Cloud    | 
 
+### 🖥️ Operating system
+
+|                                                        Technology Icon                                                        | Technology Name |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"> |     Windows     | 
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"> |      macOS      | 
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"> |      Linux      |
+
 ### 🤖 AI
 
 |                                                        Technology Icon                                                        | Technology Name | 
@@ -147,12 +155,40 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 
 
 
-### 🔬 Analytics
+### 🔬 Big Data Analytics
 
 |                                                        Technology Icon                                                        | Technology Name | 
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png"> |  Elasticsearch  | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png"> |  Apache Spark   | 
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png"> |  Spark   | 
+| <img height="50" src=""> |  Beam | 
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png"> |  Kafka   | 
+| <img height="50" src=""> |  Flink   | 
+| <img height="50" src=""> |   DBT  | 
+| <img height="50" src=""> |  RisingWave   | 
+| <img height="50" src=""> |  RedPanda   | 
+| <img height="50" src=""> |  Dlt/DuckDB | 
+| <img height="50" src=""> |  BigQuery | 
+| <img height="50" src=""> |  DataFlex |
+| <img height="50" src=""> |  DataPlex | 
+| <img height="50" src=""> |  DataFlow | 
+| <img height="50" src=""> |  DataProc |
+| <img height="50" src=""> |  Cloud Composer | 
+| <img height="50" src=""> |  RedShift | 
+| <img height="50" src=""> |  Athena | 
+| <img height="50" src=""> |  Cloud Storage | 
+| <img height="50" src=""> |  S3 | 
+| <img height="50" src=""> |  LakeFormation | 
+| <img height="50" src=""> |  Glue |
+| <img height="50" src=""> |  Kinesis Firehose | 
+| <img height="50" src=""> |  Hive | 
+| <img height="50" src=""> |  Pub/Sub |
+| <img height="50" src=""> |  DynamoDB | 
+| <img height="50" src=""> |  SNS / SQS | 
+| <img height="50" src=""> |  MageAI | 
+| <img height="50" src=""> |  Airflow | 
+| <img height="50" src=""> |  Hadoop | 
+
 
 
 ### 🧪 Testing
@@ -163,11 +199,4 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | <img height="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png"> |     Cypress     | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png"> |      Chai       | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png"> |      Mocha      | 
-
-### 🖥️ Operating system
-
-|                                                        Technology Icon                                                        | Technology Name |
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"> |     Windows     | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"> |      macOS      | 
-| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"> |      Linux      | 
+ 
