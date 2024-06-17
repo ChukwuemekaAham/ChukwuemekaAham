@@ -4,7 +4,7 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 
 - I'm open to opportunities in roles such as Cloud Engineer, React(Nextjs) Developer, Web Developer, Frontend Engineer, Software Developer, Cloud Developer.
 
-- 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company); Website, Webadmin and Management Dashboard (React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, Figma, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Github, Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel etc)
+- 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company ) - Website, Webadmin and Management Dashboard (React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, Figma, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Github, Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel etc)
 - 🌱 I’m currently learning MLOps on DataTalks Club (Zoomcamp 2024 Cohort)
 - 👯 I’m looking to collaborate on project within Cloud Computing, GCP, AWS, Azure, IBM, Software Development, DevOps, Cloud Infrastructure, Solutions Architecting, and Technical Support
 - 📫 How to reach me: https://www.linkedin.com/in/chukwuemeka-aham-dev/ 
