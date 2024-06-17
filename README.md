@@ -36,7 +36,9 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | :---------------------------------------------------------------------------------------------------------------------------: | :----------------: |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"> |        Vim         | 
 | <img height="50" src=""> |        Putty        |
+| <img height="50" src=""> |        Remote Desktop Connection        |
 | <img height="50" src=""> |        WinSCP        |
+| <img height="50" src=""> |        AnyDesk        |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png"> |   Android Studio   | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"> | Visual Studio Code | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"> |      Postman       | 
