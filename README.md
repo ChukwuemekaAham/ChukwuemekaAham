@@ -6,7 +6,7 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 
 - 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company ) - Website, Webadmin and Management Dashboard (React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, Figma, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Github, Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel etc)
 - 🌱 I’m currently learning MLOps on DataTalks Club (Zoomcamp 2024 Cohort)
-- 👯 I’m looking to collaborate on project within Cloud Computing, GCP, AWS, Azure, IBM, Software Development, DevOps, Cloud Infrastructure, Solutions Architecting, and Technical Support
+- 👯 I’m looking to collaborate on project within Cloud Computing, GCP, AWS, Azure, OpenStack, Software Development, DevOps, Cloud Infrastructure, Solutions Architecting, and Technical Support
 - 📫 How to reach me: https://www.linkedin.com/in/chukwuemeka-aham-dev/ 
 - 😄 Pronouns: He/Him
 
@@ -153,6 +153,8 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | <img height="50" src=""> |   PowerShell    |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"> |     Docker      | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"> |   Kubernetes    | 
+| <img height="50" src=""> |   Istio    |
+| <img height="50" src=""> |   Anthos    |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png"> |      CI/CD      | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png"> |     Jenkins     |
 | <img height="50" src=""> |      Travis CI     |
