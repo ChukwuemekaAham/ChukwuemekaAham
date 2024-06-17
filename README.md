@@ -10,6 +10,10 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 - 📫 How to reach me: https://www.linkedin.com/in/chukwuemeka-aham-dev/ 
 - 😄 Pronouns: He/Him
 
+## 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/ChukwuemekaAham/Portfolio-Guide/blob/main/README.md).
+
 # 🖨 Technologies
 
 ### 🚍 Communication
