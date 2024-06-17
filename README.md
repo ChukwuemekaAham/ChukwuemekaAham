@@ -1,8 +1,14 @@
-### Hi there 👋 I'm open to opportunities in roles such as Web Developer, Frontend Engineer, Cloud Developer, Cloud Engineer, React(Nextjs) Developer.
+### Hi there 👋 
 
-- 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company); Website, Webadmin and Management Dashboard (React(Nextjs), Javascript, Typescript, HTML, CSS, TailwindCSS, Figma, MongoDB, Mongoose, Docker, GitLab, Python(Django), JIRA, OpenAPI(SwaggerUI), Github, Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot etc)
+## 🙋🏻‍♀️ Introducing Myself
+
+Chukwuemeka is an experienced professional with a diverse skill set in Cloud Computing, Software Development, and Technical Support. He has a genuine passion for assisting people and excels in understanding business and technical requirements. Over the past 5 years, he has successfully implemented solutions for a wide range of customers spanning various industries. Enjoys collaborating with cross-functional teams, leveraging essential technologies and tools to drive impactful projects and solve customer issues in fast-paced environments. 
+
+- I'm open to opportunities in roles such as React(Nextjs) Developer, Web Developer, Frontend Engineer, Software Developer, Cloud Developer, Cloud Engineer.
+
+- 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company); Website, Webadmin and Management Dashboard (React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, Figma, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Github, Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel etc)
 - 🌱 I’m currently learning MLOps on DataTalks Club (Zoomcamp 2024 Cohort)
-- 👯 I’m looking to collaborate on project within Cloud Computing, GCP, AWS, Web Development, DevOps, Cloud Infrastructure, Solutions Architecting, and Technical Support
+- 👯 I’m looking to collaborate on project within Cloud Computing, GCP, AWS, Azure, IBM, Software Development, DevOps, Cloud Infrastructure, Solutions Architecting, and Technical Support
 - 📫 How to reach me: https://www.linkedin.com/in/chukwuemeka-aham-dev/ 
 - 😄 Pronouns: He/Him
 
