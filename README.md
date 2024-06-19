@@ -174,6 +174,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 | <img height="50" src=""> |   Evidently    |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png"> |    Terraform    |
 | <img height="50" src=""> |      Packer      |
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/183345124-0948a5e0-5326-495f-824f-b99d3aee5467.png"> |      Vault      |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png"> |      Nginx      | 
 | <img height="50" src=""> |      Haproxy      |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/bc1584ce-df5b-4bc1-939f-7b3c464602ce"> |     Puppet      | 
