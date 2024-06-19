@@ -1,4 +1,4 @@
-# Hi 🙋🏻‍♀️ - Introducing Myself
+# Hi 🙋🏻‍♀️
 
 Chukwuemeka is an experienced professional with a diverse skill set in Cloud Computing, Software Development, and Technical Support. He has a genuine passion for assisting people and excels in understanding business and technical requirements. Over the past 5 years, he has successfully implemented solutions for a wide range of customers spanning various industries. Enjoys collaborating with cross-functional teams, leveraging essential technologies and tools to drive impactful projects and solve customer issues in fast-paced environments. 
 
@@ -6,8 +6,8 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 
 - 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company ) - Website, Webadmin and Management Dashboard (React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, Figma, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Github, Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel etc)
 - 🌱 I’m currently learning MLOps on DataTalks Club (Zoomcamp 2024 Cohort)
-- 👯 I’m looking to collaborate on project within Cloud Computing, GCP, AWS, Azure, OpenStack, Software Development, DevOps, Cloud Infrastructure, Solutions Architecting, and Technical Support
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-aham-dev/).
+- 👯 I’m looking to collaborate on project within Cloud Computing, Software Development, DevOps, and Technical Support
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-aham-dev/). 
 - 😄 Pronouns: He/Him
 
 ## 📚 Projects
@@ -22,9 +22,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"> |      HTTP       |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png"> |    websocket    | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png"> |      gRPC       | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"> |      REST       | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png"> |      SOAP       |
 
 ### 🧰 Version Control
 
@@ -69,7 +67,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png"> |      Sass       | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"> |    Bootstrap    | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"> |   Tailwind CSS  | 
-| <img height="50" src=""> |      Headless UI      |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"> |     Swagger OpenAPI     | 
 | <img height="50" src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png"> |    Auth0     | 
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/2a36d1f6-2198-4726-89ac-2148ce46a69a"> |    styled-components     | 
@@ -83,6 +80,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed"> |      Canva      |
 | <img height="50" src=""> |      Adobe Illustrator      |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"> |      Material UI      |
+| <img height="50" src=""> |      Headless UI      |
 
 
 ### 📜 JavaScript
@@ -93,7 +91,6 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> |      React      | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> |      React Native     | 
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"> |     Next.js     | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"> |     Angular     | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> |     Vue.js      | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> |   TypeScript    | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"> |       npm       |
@@ -143,10 +140,11 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> |   PostgreSQL    |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"> |      MySQL      | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"> |      redis      | 
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"> |      Redis      | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> |     mongoDB     |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17"> |     SQLite     | 
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a"> |     MSSQL     | 
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"> |     Oracle     | 
 
 ### 🤿 DevOps
 
@@ -184,8 +182,8 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 
 |                                                        Technology Icon                                                        | Technology Name |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"> |       AWS       | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"> |       GCP       | 
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"> |       GCP       |
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"> |       AWS       |  
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"> | Microsoft Azure | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png"> |    IBM Cloud    | 
 | <img height="50" src=""> |      OpenStack     |
@@ -195,10 +193,10 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 ### 🖥️ Operating system
 
 |                                                        Technology Icon                                                        | Technology Name |
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"> |      Linux      |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"> |     Windows     | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"> |      macOS      | 
-| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"> |      Linux      |
 
 ### 🤖 AI / ML
 
@@ -244,7 +242,8 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 | <img height="50" src=""> |  Pub/Sub |
 | <img height="50" src=""> |  Lambda | 
 | <img height="50" src=""> |  SNS / SQS | 
-| <img height="50" src=""> |  MageAI | 
+| <img height="50" src=""> |  MageAI |
+| <img height="50" src=""> |  Prefect |
 | <img height="50" src=""> |  Airflow | 
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573"> |  Hadoop | 
  
