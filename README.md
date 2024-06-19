@@ -122,9 +122,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 
 |                                                        Technology Icon                                                        | Technology Name |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"> |     MatLab     | 
-
-
+ 
 ### 🧪 Testing
 
 |                                                        Technology Icon                                                        | Technology Name |
@@ -246,4 +244,18 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 | <img height="50" src=""> |  Prefect |
 | <img height="50" src=""> |  Airflow | 
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573"> |  Hadoop | 
- 
+
+
+### 🔬 Geospatial
+
+|                                                        Technology Icon                                                        | Technology Name | 
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
+| <img height="50" src=""> |  ArcGIS |
+| <img height="50" src=""> |  QGis |
+| <img height="50" src=""> |  Google Earth Engine |
+| <img height="50" src=""> |  Google Earth Pro |
+| <img height="50" src=""> |  GDAL |
+| <img height="50" src=""> |  GeoServer |
+| <img height="50" src=""> |  Postgres |
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"> |     MatLab     |
+
