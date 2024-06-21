@@ -2,9 +2,8 @@
 
 Chukwuemeka is an experienced professional with a diverse skill set in Cloud Computing, Software Development, and Technical Support. He has a genuine passion for assisting people and excels in understanding business and technical requirements. Over the past 5 years, he has successfully implemented solutions for a wide range of customers spanning various industries. Enjoys collaborating with cross-functional teams, leveraging essential technologies and tools to drive impactful projects and solve customer issues in fast-paced environments. 
 
-- I'm open to opportunities in roles such as Cloud Engineer, React(Nextjs) Developer, Web Developer, Frontend Engineer, Software Developer, Cloud Developer, Data Engineer.
-
-- 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company ) - Website, Webadmin and Management Dashboard (Nodejs, React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, HeadlessUI, Figma, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Github, Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel etc)
+- I'm open to opportunities in roles such as Cloud Engineer, DevOps Engineer, Cloud Developer, Data Engineer, React(Nextjs) Developer, Web Developer, Frontend Engineer, Software Developer.
+- 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company ) - Website, Webadmin, Management Dashboard, Admin Dashboard (Nodejs, React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel,  OpenStack etc)
 - 🌱 I’m currently learning MLOps on DataTalks Club (Zoomcamp 2024 Cohort)
 - 👯 I’m looking to collaborate on project within Cloud Computing, Software Development, DevOps, and Technical Support
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-aham-dev/). 
@@ -12,7 +11,7 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/ChukwuemekaAham/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/ChukwuemekaAham/Portfolio-Guide/blob/main/README.md). 
 
 # 🖨 Technologies
 
@@ -150,7 +149,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Chukw
 
 |                                                        Technology Icon                                                        | Technology Name |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"> |      Bash       | 
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"> |      Bash/Shell      | 
 | <img height="50" src=""> |      Jq     |
 | <img height="50" src=""> |   PowerShell    |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"> |     Docker      | 
