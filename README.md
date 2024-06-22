@@ -12,14 +12,25 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 - 🔭 I’m currently developing and administering several web based projects for **Nkponani Limited ( Nobus Cloud company )** - Website, Webadmin, Management Dashboard, Admin Dashboard ( Nodejs, React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel, OpenStack, etc )
 - 🌱 I’m currently learning **MLOps on DataTalks Club (Zoomcamp 2024 Cohort)**
 - 👯 I’m looking to collaborate **on project within Cloud Computing, Software Development, DevOps, and Technical Support**
-- 📫 How to reach me:
-- 🏄 ## Badge
+
+<hr/>
+
+- ## 🏄 Cloud Skill Badge
 <div align="left"> 
-  <a href="mailto:ahamchukwuemeka2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0">
+    <img src="https://img.shields.io/badge/Google-Cloud-Partner-Skill-Profile-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/chukwuemeka-aham-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Partner-Training-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/21877b03-2562-465a-a316-624fb678c411">
+    <img src="https://img.shields.io/badge/AWS-Well-Architected-Proficiency-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/76393b4f-ba2a-4c4d-8368-de018d2f520d">
+    <img src="https://img.shields.io/badge/AWS-Partner-Accreditation-Badge-(Technical)-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/badges/7e336078-557e-408f-871e-743b8be0006a">
+    <img src="https://img.shields.io/badge/AWS-Partner-Cloud-Economics-Badge-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
