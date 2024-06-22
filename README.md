@@ -28,7 +28,7 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
     <img src="https://img.shields.io/badge/AWS-Well-Architected-Proficiency-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.credly.com/badges/76393b4f-ba2a-4c4d-8368-de018d2f520d">
-    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
+    <img src="https://images.credly.com/size/340x340/images/76393b4f-ba2a-4c4d-8368-de018d2f520d/image.png" />
   </a>
   <a href="https://www.credly.com/badges/7e336078-557e-408f-871e-743b8be0006a">
     <img src="https://www.google.com/imgres?q=badges.frapsoft.com%20aws%20logo&imgurl=https%3A%2F%2Fimages.credly.com%2Fsize%2F220x220%2Fimages%2F9dc6345e-db80-44de-bb44-0c78775e53fa%2Fimage.png&imgrefurl=https%3A%2F%2Fwww.credly.com%2Forganizations%2Famazon-web-services%2Fbadges&docid=TYfH4Fwb6MY_uM&tbnid=CStUHGI1i-217M&vet=12ahUKEwiF99f7ofCGAxXIYEEAHZN0Aq8QM3oECBkQAA..i&w=220&h=220&hcb=2&ved=2ahUKEwiF99f7ofCGAxXIYEEAHZN0Aq8QM3oECBkQAA" />
