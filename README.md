@@ -1,7 +1,12 @@
-# Hi 🙋🏻‍♀️ <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ChukwuemekaAham.ChukwuemekaAham" />
+# Hi 🙋🏻‍♀️ 
 
 Chukwuemeka is an experienced professional with a diverse skill set in Cloud Computing, Software Development, and Technical Support. He has a genuine passion for assisting people and excels in understanding business and technical requirements. Over the past 5 years, he has successfully implemented solutions for a wide range of customers spanning various industries. Enjoys collaborating with cross-functional teams, leveraging essential technologies and tools to drive impactful projects and solve customer issues in fast-paced environments. 
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+open+to+opportunities+in+roles+such+as;+Cloud+Engineer;+DevOps+Engineer;+Cloud+Developer;+Data+Engineer;+React(Nextjs)+Developer;+Web+Developer;+Frontend+Engineer;+Software+Developer;+GIS+Programmer;+GeoSpatial+Data+Analyst;+Geospatial+Data+Engineer" />
+</h1>
+
+<br/>
 - I'm open to opportunities in roles such as Cloud Engineer, DevOps Engineer, Cloud Developer, Data Engineer, React(Nextjs) Developer, Web Developer, Frontend Engineer, Software Developer.
 - 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company ) - Website, Webadmin, Management Dashboard, Admin Dashboard (Nodejs, React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel,  OpenStack etc)
 - 🌱 I’m currently learning MLOps on DataTalks Club (Zoomcamp 2024 Cohort)
