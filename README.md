@@ -281,3 +281,11 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/Chukwue
 | <img height="50" src=""> |  Postgres |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"> |     MatLab     |
 
+
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Send+me+a+message+on+Linkedin!;">
+</h3>
+
+<br/>
