@@ -2,7 +2,7 @@
 
 Chukwuemeka is an experienced professional with a diverse skill set in Cloud Computing, Software Development, and Technical Support. He has a genuine passion for assisting people and excels in understanding business and technical requirements. Over the past 5 years, he has successfully implemented solutions for a wide range of customers spanning various industries. Enjoys collaborating with cross-functional teams, leveraging essential technologies and tools to drive impactful projects and solve customer issues in fast-paced environments. 
 
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I+am+open+to+roles+as;+Cloud+Engineer;+DevOps+Engineer;+Cloud+Developer;+Data+Engineer;+React(Nextjs)+Developer;+Web+Developer;+Frontend+Engineer;+Software+Developer;+GIS+Programmer;+GeoSpatial+Data+Analyst;+Geospatial+Data+Engineer"/>
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+roles+such+as;+Cloud+Engineer;+DevOps+Engineer;+Cloud+Developer;+Data+Engineer;+React(Nextjs)+Developer;+Web+Developer;+Frontend+Engineer;+Software+Developer;+GIS+Programmer;+GeoSpatial+Data+Analyst;+Geospatial+Data+Engineer"/>
 </h1>
 
 <br/>
