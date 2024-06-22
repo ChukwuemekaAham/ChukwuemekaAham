@@ -31,6 +31,15 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/Chukwue
 
  <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChukwuemekaAham&hide=HTML,CSS&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
 # 🖨 Technologies
 
 ### 🚍 Communication
