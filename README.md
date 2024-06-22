@@ -1,5 +1,7 @@
 # Chukwuemeka Aham
-[![Linkedin Badge](https://img.shields.io/badge/-Chukwuemeka%20Aham-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chukwuemeka-aham-dev/)](https://www.linkedin.com/in/chukwuemeka-aham-dev/) [![Twitter Badge](http://img.shields.io/badge/-@Shivansh_2407-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/Shivansh_2407)](https://twitter.com/Shivansh_2407) [![GitHub followers](https://img.shields.io/github/followers/Shivansh2407?label=Follow&style=social)](https://github.com/Shivansh2407/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-shivanshsrivastava2000-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivanshsrivastava2000@gmail.com)](mailto:shivanshsrivastava2000@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Chukwuemeka%20Aham-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chukwuemeka-aham-dev/)](https://www.linkedin.com/in/chukwuemeka-aham-dev/) [![GitHub followers](https://img.shields.io/github/followers/ChukwuemekaAham?label=Follow&style=social)](https://github.com/ChukwuemekaAham/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-chukwuemekaaham2000-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ahamchukwuemeka2@gmail.com)](mailto:ahamchukwuemeka2@gmail.com)
+---
+## Hi there 👋,  
 Chukwuemeka is an experienced professional with a diverse skill set in Cloud Computing, Software Development, and Technical Support. He has a genuine passion for assisting people and excels in understanding business and technical requirements. Over the past 5 years, he has successfully implemented solutions for a wide range of customers spanning various industries. Enjoys collaborating with cross-functional teams, leveraging essential technologies and tools to drive impactful projects and solve customer issues in fast-paced environments. 
 
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+roles+such+as;+Cloud+Engineer;+DevOps+Engineer;+Cloud+Developer;+Data+Engineer;+React(Nextjs)+Developer;+Web+Developer;+Frontend+Engineer;+Software+Developer;+GIS+Programmer;+GeoSpatial+Data+Analyst;+Geospatial+Data+Engineer"/>
@@ -19,6 +21,8 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+## Badge
 
  <hr/>
  
