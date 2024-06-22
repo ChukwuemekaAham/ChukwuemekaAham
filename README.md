@@ -16,6 +16,7 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 <hr/>
 
 - ## 🏄 Cloud Skill Badge
+[![AWS-Partner-Training](https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)](https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing)
 <div align="left"> 
   <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0">
     <img src="https://img.shields.io/badge/Google-Cloud-Partner-Skill-Profile-lightgray?style=for-the-badge&logo=aws&logoColor=white" />
