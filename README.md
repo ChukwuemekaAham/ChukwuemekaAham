@@ -28,7 +28,7 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
     <img src="https://img.shields.io/badge/AWS-Well-Architected-Proficiency-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.credly.com/badges/76393b4f-ba2a-4c4d-8368-de018d2f520d">
-    <img src="https://img.shields.io/badge/AWS-Partner-Accreditation-Badge-(Technical)-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://www.linkedin.com/in/chukwuemeka-aham-dev/overlay/1635529760425/single-media-viewer?type=LINK&profileId=ACoAAEQpafMBTirdDcj3O42yKOXv29khPukx3ko&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B0eVWyBYySKqmL1AWM0QlIQ%3D%3D" />
   </a>
   <a href="https://www.credly.com/badges/7e336078-557e-408f-871e-743b8be0006a">
     <img src="https://img.shields.io/badge/AWS-Partner-Cloud-Economics-Badge-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
