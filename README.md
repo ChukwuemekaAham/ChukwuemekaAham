@@ -7,8 +7,8 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 
 <br/>
 
-- 🔭 I’m currently developing and administering several web based projects for Nkponani Limited ( the Nobus Cloud company ) - Website, Webadmin, Management Dashboard, Admin Dashboard (Nodejs, React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel,  OpenStack etc)
-- 🌱 I’m currently learning MLOps on DataTalks Club (Zoomcamp 2024 Cohort)
+- 🔭 I’m currently developing and administering several web based projects for **Nkponani Limited ( the Nobus Cloud company )** - Website, Webadmin, Management Dashboard, Admin Dashboard (Nodejs, React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel,  OpenStack etc)
+- 🌱 I’m currently learning **MLOps on DataTalks Club (Zoomcamp 2024 Cohort)**
 - 👯 I’m looking to collaborate on project within Cloud Computing, Software Development, DevOps, and Technical Support
 - 📫 How to reach me: 
 <div align="left"> 
@@ -292,7 +292,7 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/Chukwue
 
 <hr/>
 
-<h3 align="center">
+<h3 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Send+me+a+message+on+Linkedin!;">
 </h3>
 
