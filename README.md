@@ -21,9 +21,11 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
   <br/>
+  <br/>
   <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
+  <br/>
   <br/>
   <span>
   <a href="https://www.credly.com/badges/21877b03-2562-465a-a316-624fb678c411" target="_blank">
