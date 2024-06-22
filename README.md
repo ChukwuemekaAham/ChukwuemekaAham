@@ -16,22 +16,21 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 <hr/>
 
 - ## 🏄 Cloud Skill Badge
-[![AWS-Partner-Training](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing)
 <div align="left"> 
   <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0">
-    <img src="https://img.shields.io/badge/Google-Cloud-Partner-Skill-Profile-lightgray?style=for-the-badge&logo=aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google-Cloud-Partner-Skill-Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
   <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Partner-Training-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-Partner-Training-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
   <a href="https://www.credly.com/badges/21877b03-2562-465a-a316-624fb678c411">
-    <img src="https://img.shields.io/badge/AWS-Well-Architected-Proficiency-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-Well-Architected-Proficiency-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
   <a href="https://www.credly.com/badges/76393b4f-ba2a-4c4d-8368-de018d2f520d">
-    <img src="https://images.credly.com/size/340x340/images/76393b4f-ba2a-4c4d-8368-de018d2f520d/image.png" />
+    <img src="https://img.shields.io/badge/AWS-Partner-Accreditation-Badge-(Technical)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
   <a href="https://www.credly.com/badges/7e336078-557e-408f-871e-743b8be0006a">
-    <img src="https://www.google.com/imgres?q=badges.frapsoft.com%20aws%20logo&imgurl=https%3A%2F%2Fimages.credly.com%2Fsize%2F220x220%2Fimages%2F9dc6345e-db80-44de-bb44-0c78775e53fa%2Fimage.png&imgrefurl=https%3A%2F%2Fwww.credly.com%2Forganizations%2Famazon-web-services%2Fbadges&docid=TYfH4Fwb6MY_uM&tbnid=CStUHGI1i-217M&vet=12ahUKEwiF99f7ofCGAxXIYEEAHZN0Aq8QM3oECBkQAA..i&w=220&h=220&hcb=2&ved=2ahUKEwiF99f7ofCGAxXIYEEAHZN0Aq8QM3oECBkQAA" />
+    <img src="https://img.shields.io/badge/AWS-Partner-Cloud-Economics-Badge-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
 </div>
 
