@@ -3,20 +3,35 @@
 Chukwuemeka is an experienced professional with a diverse skill set in Cloud Computing, Software Development, and Technical Support. He has a genuine passion for assisting people and excels in understanding business and technical requirements. Over the past 5 years, he has successfully implemented solutions for a wide range of customers spanning various industries. Enjoys collaborating with cross-functional teams, leveraging essential technologies and tools to drive impactful projects and solve customer issues in fast-paced environments. 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+open+to+opportunities+in+roles+such+as;+Cloud+Engineer;+DevOps+Engineer;+Cloud+Developer;+Data+Engineer;+React(Nextjs)+Developer;+Web+Developer;+Frontend+Engineer;+Software+Developer;+GIS+Programmer;+GeoSpatial+Data+Analyst;+Geospatial+Data+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I am+open+to+opportunities+in+roles+such+as;+Cloud+Engineer;+DevOps+Engineer;+Cloud+Developer;+Data+Engineer;+React(Nextjs)+Developer;+Web+Developer;+Frontend+Engineer;+Software+Developer;+GIS+Programmer;+GeoSpatial+Data+Analyst;+Geospatial+Data+Engineer" />
 </h1>
 
 <br/>
-- I'm open to opportunities in roles such as Cloud Engineer, DevOps Engineer, Cloud Developer, Data Engineer, React(Nextjs) Developer, Web Developer, Frontend Engineer, Software Developer.
-- 🔭 I’m currently developing and administering several user facing projects for Nkponani Limited ( the Nobus Cloud company ) - Website, Webadmin, Management Dashboard, Admin Dashboard (Nodejs, React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel,  OpenStack etc)
+
+- 🔭 I’m currently developing and administering several web based projects for Nkponani Limited ( the Nobus Cloud company ) - Website, Webadmin, Management Dashboard, Admin Dashboard (Nodejs, React(Nextjs), Javascript, Typescript, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, MongoDB, Mongoose, Docker, GitLab, RestAPI, JIRA, OpenAPI(SwaggerUI), Git, Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Security, Networking, Vercel,  OpenStack etc)
 - 🌱 I’m currently learning MLOps on DataTalks Club (Zoomcamp 2024 Cohort)
 - 👯 I’m looking to collaborate on project within Cloud Computing, Software Development, DevOps, and Technical Support
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-aham-dev/). 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-aham-dev/).
+<div align="center"> 
+  <a href="mailto:ahamchukwuemeka2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chukwuemeka-aham-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://touhidurrahman.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
+  </a>
+</div>
+
+ <hr/>
 - 😄 Pronouns: He/Him
 
 ## 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/ChukwuemekaAham/Portfolio-Guide/blob/main/README.md). 
+Welcome to my portfolio, where I showcase my <a href="https://github.com/ChukwuemekaAham/Portfolio-Guide/blob/main/README.md" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
+  </a> [projects](https://github.com/ChukwuemekaAham/Portfolio-Guide/blob/main/README.md). 
 
 # 🖨 Technologies
 
