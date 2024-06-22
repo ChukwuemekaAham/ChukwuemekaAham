@@ -19,19 +19,17 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
   <a href="https://www.linkedin.com/in/chukwuemeka-aham-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://touhidurrahman.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
-  </a>
 </div>
 
  <hr/>
-- 😄 Pronouns: He/Him
-
+ 
 ## 📚 Projects
 
 Welcome to my portfolio, where I showcase my <a href="https://github.com/ChukwuemekaAham/Portfolio-Guide/blob/main/README.md" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
-  </a> [projects](https://github.com/ChukwuemekaAham/Portfolio-Guide/blob/main/README.md). 
+     <img src="https://img.shields.io/badge/Projects-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
+  </a>
+
+ <hr/>
 
 # 🖨 Technologies
 
