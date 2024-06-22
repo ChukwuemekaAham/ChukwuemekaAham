@@ -2,8 +2,7 @@
 
 Chukwuemeka is an experienced professional with a diverse skill set in Cloud Computing, Software Development, and Technical Support. He has a genuine passion for assisting people and excels in understanding business and technical requirements. Over the past 5 years, he has successfully implemented solutions for a wide range of customers spanning various industries. Enjoys collaborating with cross-functional teams, leveraging essential technologies and tools to drive impactful projects and solve customer issues in fast-paced environments. 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I am+open+to+opportunities+in+roles+such+as;+Cloud+Engineer;+DevOps+Engineer;+Cloud+Developer;+Data+Engineer;+React(Nextjs)+Developer;+Web+Developer;+Frontend+Engineer;+Software+Developer;+GIS+Programmer;+GeoSpatial+Data+Analyst;+Geospatial+Data+Engineer"/>
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I+am+open+to+opportunities+in+roles+such+as;+Cloud+Engineer;+DevOps+Engineer;+Cloud+Developer;+Data+Engineer;+React(Nextjs)+Developer;+Web+Developer;+Frontend+Engineer;+Software+Developer;+GIS+Programmer;+GeoSpatial+Data+Analyst;+Geospatial+Data+Engineer"/>
 </h1>
 
 <br/>
@@ -31,9 +30,9 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/Chukwue
 
  <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align=left>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChukwuemekaAham&hide=HTML,CSS&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
