@@ -17,19 +17,19 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 
 - ## 🏄 Cloud Skill Badge
 <div align="left"> 
-  <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0">
+  <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" target="_blank">
     <img src="https://img.shields.io/badge/Google-Cloud-Partner-Skill-Profile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
   <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Partner-Training-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/badges/21877b03-2562-465a-a316-624fb678c411">
+  <a href="https://www.credly.com/badges/21877b03-2562-465a-a316-624fb678c411" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Well-Architected-Proficiency-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/badges/76393b4f-ba2a-4c4d-8368-de018d2f520d">
+  <a href="https://www.credly.com/badges/76393b4f-ba2a-4c4d-8368-de018d2f520d" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Partner-Accreditation-Badge-(Technical)-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
-  <a href="https://www.credly.com/badges/7e336078-557e-408f-871e-743b8be0006a">
+  <a href="https://www.credly.com/badges/7e336078-557e-408f-871e-743b8be0006a" target="_blank">
     <img src="https://img.shields.io/badge/AWS-Partner-Cloud-Economics-Badge-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
 </div>
