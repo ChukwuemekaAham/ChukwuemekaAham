@@ -26,16 +26,11 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 ## 🏄 Cloud Skill Badge
 <div align="left"> 
  <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img style="width:100px; height:100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebcatalog.io%2Fen%2Fapps%2Fgoogle-cloudskillsboost%2F&psig=AOvVaw3916JE--jDFOli8GU9bHuX&ust=1719220359224000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD9voux8YYDFQAAAAAdAAAAABAf" />
   </a>
-  <br/>
-  <br/>
  <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img style="width:100px; height:100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngall.com%2Faws-logo-png%2F&psig=AOvVaw0HZMIJlrEMArsp4gcSUk4q&ust=1719220575555000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPD6hvOx8YYDFQAAAAAdAAAAABAE" />
   </a>
-  <br/>
-  <br/>
- 
   <a href="https://www.credly.com/badges/76393b4f-ba2a-4c4d-8368-de018d2f520d" target="_blank">
     <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" />
   </a>
