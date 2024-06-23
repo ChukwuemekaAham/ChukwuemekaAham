@@ -13,6 +13,14 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 - 🌱 I’m currently learning **MLOps on DataTalks Club (Zoomcamp 2024 Cohort)**
 - 👯 I’m looking to collaborate **on project within Cloud Computing, Software Development, DevOps, and Technical Support**
 
+ <hr/>
+ 
+## 📚 Projects
+
+Welcome to my portfolio, where I showcase my <a href="https://github.com/ChukwuemekaAham/Portfolio-Guide/blob/main/README.md" target="_blank">
+     <img src="https://img.shields.io/badge/Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
+  </a>
+
 <hr/>
 
 ## 🏄 Cloud Skill Badge
@@ -39,14 +47,6 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
   </a>
   </span>
 </div>
-
- <hr/>
- 
-## 📚 Projects
-
-Welcome to my portfolio, where I showcase my <a href="https://github.com/ChukwuemekaAham/Portfolio-Guide/blob/main/README.md" target="_blank">
-     <img src="https://img.shields.io/badge/Projects-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
-  </a>
 
  <hr/>
 
