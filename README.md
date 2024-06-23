@@ -26,7 +26,7 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 ## 🏄 Cloud Skill Badge
 <div align="left"> 
  <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" target="_blank">
-    <img style="width:100px; height:100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwebcatalog.io%2Fen%2Fapps%2Fgoogle-cloudskillsboost%2F&psig=AOvVaw3916JE--jDFOli8GU9bHuX&ust=1719220359224000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD9voux8YYDFQAAAAAdAAAAABBq" />
+    <img style="width:100px; height:100px" src="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0?locale=en" />
   </a>
  <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
     <img style="width:100px; height:100px" src="" />
