@@ -26,10 +26,10 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 ## 🏄 Cloud Skill Badge
 <div align="left"> 
  <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" target="_blank">
-    <img style="width:100px; height:100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flenguasextranjerastec.cdserdan.tecnm.mx%2F%3Fe%3Dmastering-google-cloud-a-comprehensive-productivity-guide-udemy-ss-x2jwxqTg&psig=AOvVaw3916JE--jDFOli8GU9bHuX&ust=1719220359224000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD9voux8YYDFQAAAAAdAAAAABBb" />
+    <img style="width:200px; height:200px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flenguasextranjerastec.cdserdan.tecnm.mx%2F%3Fe%3Dmastering-google-cloud-a-comprehensive-productivity-guide-udemy-ss-x2jwxqTg&psig=AOvVaw3916JE--jDFOli8GU9bHuX&ust=1719220359224000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKD9voux8YYDFQAAAAAdAAAAABBb" />
   </a>
  <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
-    <img style="width:100px; height:100px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2Fblogs%2Ftraining-and-certification%2Ficymi-november-news-from-aws-training-and-certification%2F&psig=AOvVaw3d3-hg2AxWoLocKX4KIXJB&ust=1719220826507000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDgrO-y8YYDFQAAAAAdAAAAABAR" />
+    <img style="width:200px; height:200px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2Fblogs%2Ftraining-and-certification%2Ficymi-november-news-from-aws-training-and-certification%2F&psig=AOvVaw3d3-hg2AxWoLocKX4KIXJB&ust=1719220826507000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDgrO-y8YYDFQAAAAAdAAAAABAR" />
   </a>
   <a href="https://www.credly.com/badges/76393b4f-ba2a-4c4d-8368-de018d2f520d" target="_blank">
     <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" />
