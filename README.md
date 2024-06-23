@@ -25,12 +25,12 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/Chukwue
 
 ## 🏄 Cloud Skill Badge
 <div align="left"> 
-  <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" target="_blank">
+  - <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" target="_blank">
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   </a>
   <br/>
   <br/>
-  <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
+  - <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
   <br/>
