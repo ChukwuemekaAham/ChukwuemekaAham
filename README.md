@@ -138,7 +138,6 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/Chukwue
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> |      React      | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> |      React Native     | 
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"> |     Next.js     | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> |     Vue.js      | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> |   TypeScript    | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"> |       npm       |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png"> |      yarn       |
@@ -147,8 +146,6 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/Chukwue
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"> |      Redux      | 
 | <img height="50" src=""> |      Zustand      | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"> |     webpack     | 
-| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/85880a3a-e65b-4e4b-a102-6c3f225b9aba"> |       Pug       |
-| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35"> |      Vite       | 
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b"> |      Babel      |
 
 ### 🐍 Python
@@ -234,8 +231,6 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/Chukwue
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"> | Microsoft Azure | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png"> |    IBM Cloud    | 
 | <img height="50" src=""> |      OpenStack     |
-| <img height="50" src=""> |      Digital Ocean     |
-| <img height="50" src=""> |      Nobus Cloud     |
 
 ### 🖥️ Operating system
 
@@ -299,12 +294,15 @@ Welcome to my portfolio, where I showcase my <a href="https://github.com/Chukwue
 
 |                                                        Technology Icon                                                        | Technology Name | 
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
-| <img height="50" src=""> |  ArcGIS |
+| <img height="50" src=""> |  ArcGIS Pro |
+| <img height="50" src=""> |  ArcGIS Online |
 | <img height="50" src=""> |  QGis |
 | <img height="50" src=""> | AutoDesk Civil3D |
 | <img height="50" src=""> |  Google Earth Engine |
 | <img height="50" src=""> |  Google Earth Pro |
 | <img height="50" src=""> |  GDAL |
+| <img height="50" src=""> |  Geo Mapper |
+| <img height="50" src=""> |  GeoDjango |
 | <img height="50" src=""> |  GeoServer |
 | <img height="50" src=""> |  Postgres |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"> |     MatLab     |
