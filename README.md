@@ -39,7 +39,9 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
   </a>
   <a href="https://www.credly.com/badges/21877b03-2562-465a-a316-624fb678c411" target="_blank">
     <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" />
-  </a> 
+  <a href="https://www.credly.com/badges/f274cc53-1bc7-47ab-9e4a-5ec0b561d2cc" target="_blank">
+    <img style="width:100px; height:100px" src="" />
+  </a>
 </div>
 
  <hr/>
