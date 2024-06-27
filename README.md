@@ -298,10 +298,11 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 | <img height="50" src=""> |  Google Earth Engine |
 | <img height="50" src=""> |  Google Earth Pro |
 | <img height="50" src=""> |  GDAL |
-| <img height="50" src=""> |  Geo Mapper |
+| <img height="50" src=""> |  Global Mapper |
 | <img height="50" src=""> |  GeoDjango |
 | <img height="50" src=""> |  GeoServer |
 | <img height="50" src=""> |  Postgres |
+| <img height="50" src=""> |  Mapbox |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"> |     MatLab     |
 
 
