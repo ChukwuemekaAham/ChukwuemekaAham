@@ -45,7 +45,18 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
     <a href="https://google.accredible.com/f10dbb65-f263-4903-a6bf-81e17452bad2" target="_blank">
     <img style="width:100px; height:100px" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdq4LtfiDGQ-wWeNPIIUteKksgF77X-02k50SepXw1s0AFhV16" />
   </a>
-   
+   <a href="https://google.accredible.com/e83dc21b-f6a1-4a15-ad4b-6b5a1f91190d" target="_blank">
+    <img style="width:100px; height:100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1cC7mgRFAn3do2ClbKHnNzGMIdqp9QkogdyXegTON6jwUvcmY" />
+  </a>
+   <a href="https://www.udacity.com/certificate/UEEY9ETE" target="_blank">
+    <img style="width:100px; height:100px" src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/7aa9b5be-eddc-4eb8-90a3-d67cf145a82b.svg" />
+  </a>
+   <a href="https://media.licdn.com/dms/image/C4D0BAQFY84TXDGjQTA/company-logo_100_100/0/1640896517353/datatalks_club_logo?e=1727913600&v=beta&t=r-dvgCWDHMskdmifuOH4J15QQ_EXRNmhny0kxucrUe0" target="_blank">
+    <img style="width:100px; height:100px" src="https://certificate.datatalks.club/dezoomcamp/2024/5ef26c60dac8e38e085b7a7b57cd62bf0e35ee24.pdf" />
+  </a>
+   <a href="https://www.credly.com/badges/95449fe4-8ddc-4a69-b2c1-18f42746a586" target="_blank">
+    <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/c0b439e5-79d5-498e-abc9-2b71cdf08c34/image.png" />
+  </a>
 </div>
 
  <hr/>
