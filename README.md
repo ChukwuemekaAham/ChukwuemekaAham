@@ -158,11 +158,6 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 |                                                        Technology Icon                                                        | Technology Name |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png"> |     Fortran     | 
-
-### 🧮 MatLab
-
-|                                                        Technology Icon                                                        | Technology Name |
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
  
 ### 🧪 Testing
 
