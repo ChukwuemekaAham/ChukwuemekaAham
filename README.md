@@ -10,7 +10,7 @@ Chukwuemeka is an experienced professional with a diverse skill set in Cloud Com
 <br/>
 
 - 🔭 I’m currently developing and administering several web based projects for **Nkponani Limited ( the Nobus Cloud company )** ( React(Nextjs), Javascript, Typescript, Nodejs, Python(Django), MySql, Sqlite, HTML, CSS, TailwindCSS, MongoDB, Mongoose, Docker, Git, GitLab, Github Actions, RestAPI, JIRA, OpenAPI(SwaggerUI), Windows Server, Linux, Bash/Shell, System Administration, NGINX, PM2, Apache, Certbot, Cloud Vms, Haproxy, Server Administration, Nagios, Zabbix, Security, Networking, Vercel, OpenStack, etc )
-- 🌱 I’m currently learning **MLOps on DataTalks Club (Zoomcamp 2024 Cohort)**
+- 🌱 I’m currently learning **MLOps on DataTalks Club (Zoomcamp 2024 Cohort)** and **Google Cloud Platform**
 - 👯 I’m looking to collaborate **on project within Cloud Computing, Software Development, DevOps, and Technical Support**
 
  <hr/>
