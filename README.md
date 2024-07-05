@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Chukwuemeka%20Aham-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chukwuemeka-aham-dev/)](https://www.linkedin.com/in/chukwuemeka-aham-dev/) [![GitHub followers](https://img.shields.io/github/followers/ChukwuemekaAham?label=Follow&style=social)](https://github.com/ChukwuemekaAham/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-chukwuemekaaham-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:ahamchukwuemeka2@gmail.com)](mailto:ahamchukwuemeka2@gmail.com)
 ---
 ## Hi there 👋
-Chukwuemeka is passionate about assisting people, and understanding business and technical needs. Over the past 5 years, he has consistently delivered exceptional support and solutions across various industries. He excels in collaborating with cross-functional teams, leveraging technologies to drive impactful projects and resolve issues in fast-paced environments
+Chukwuemeka is passionate about assisting people, and understanding business and technical needs. Over the past 5 years, he has consistently delivered exceptional support and solutions across various industries. He excels in collaborating with cross-functional teams, leveraging technologies to drive impactful projects and resolve issues in fast-paced environments. He also invest in training to enhance problem-solving skills.
 
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+roles+such+as;+Cloud+/+DevOps+Engineer;+Cloud+Developer;+Data+Engineer;+Geospatial+Data+Engineer;+React(Nextjs)+Developer;+Web+Developer;+Software+Developer"/>
 </h1>
