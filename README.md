@@ -204,6 +204,7 @@ Chukwuemeka is a skilled and experienced cloud computing and software developmen
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"> |      Bash/Shell      | 
 | <img height="50" src=""> |      Jq     |
+| <img height="50" src=""> |   yq    |
 | <img height="50" src=""> |   PowerShell    |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"> |     Docker      | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"> |   Kubernetes    | 
@@ -219,6 +220,7 @@ Chukwuemeka is a skilled and experienced cloud computing and software developmen
 | <img height="50" src=""> |   ArgoCD    |
 | <img height="50" src=""> |   Weave Flux    |
 | <img height="50" src=""> |   Helm    |
+| <img height="50" src=""> |   Kustomize    |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png"> |     Grafana     | 
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png"> |   Prometheus    |
 | <img height="50" src=""> |   Nagios    |
