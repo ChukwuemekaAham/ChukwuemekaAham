@@ -17,7 +17,7 @@ Chukwuemeka is a skilled and experienced cloud computing and software developmen
  
 ## 📚 Portfolio
 
-<a href="https://github.com/ChukwuemekaAham/Portfolio-Guide/blob/main/README.md" target="_blank">
+<a href="https://github.com/ChukwuemekaAham?tab=repositories" target="_blank">
      <img src="https://img.shields.io/badge/Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
   </a>
 
