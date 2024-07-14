@@ -10,7 +10,7 @@ Chukwuemeka is a skilled and experienced cloud computing and software developmen
 <br/>
 
 - 🌱 I’m currently learning **MLOps on DataTalks Club (Zoomcamp 2024 Cohort)** and **Google Cloud Platform**
-- 👯 I’m looking to collaborate on project within the **Cloud Computing Space**, as well as gain invites for hands-on workshop training.
+- 👯 I’m looking to collaborate on project within the **Software Development and Cloud Computing Space** .
 
  <hr/>
  
