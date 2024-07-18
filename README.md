@@ -10,8 +10,8 @@ Experienced cloud computing and software development professional who excel at d
 
 <br/>
 
-- 🌱 I’m currently learning **MLOps on DataTalks Club (Zoomcamp 2024 Cohort)** and **Google Cloud Platform**
-- 👯 I’m looking to collaborate on project within the **Software Development and Cloud Computing Space** .
+- 🌱 I’m currently learning **Large Language Models and MLOps on DataTalks Club (Zoomcamp 2024 Cohort)** and **Google Cloud Platform**
+- 👯 I’m looking to collaborate on project within the **Software Development and Cloud Computing Space** 
 
  <hr/>
  
@@ -59,6 +59,9 @@ Experienced cloud computing and software development professional who excel at d
   </a>
    <a href="https://www.credly.com/badges/2d7b431f-42ae-4def-9cfb-2ac1eff8baef" target="_blank">
     <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" />
+  </a>
+   <a href="https://confirm.udacity.com/e/3dc3b064-442d-11ef-b49b-73092a06c7f1?_gl=1*1v2er8c*_gcl_au*MTcyMzMzNjQ2OC4xNzE5MTAyODg1*_ga*MTIzMzM1MDI2MC4xNjg2ODQ0MTMx*_ga_CF22GKVCFK*MTcyMTMyMzY3Mi4xMi4xLjE3MjEzMjM2ODYuNDYuMC4w" target="_blank">
+    <img style="width:100px; height:100px" src="https://www.linkedin.com/in/chukwuemeka-aham-dev/overlay/1721324127201/single-media-viewer?type=IMAGE&profileId=ACoAAEQpafMBTirdDcj3O42yKOXv29khPukx3ko&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BEOxrMXAnRC6uGyBIpZHEWg%3D%3D" />
   </a>
 </div>
 
