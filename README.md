@@ -61,7 +61,7 @@ Experienced cloud computing and software development professional who excel at d
     <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" />
   </a>
    <a href="https://confirm.udacity.com/e/3dc3b064-442d-11ef-b49b-73092a06c7f1?_gl=1*1v2er8c*_gcl_au*MTcyMzMzNjQ2OC4xNzE5MTAyODg1*_ga*MTIzMzM1MDI2MC4xNjg2ODQ0MTMx*_ga_CF22GKVCFK*MTcyMTMyMzY3Mi4xMi4xLjE3MjEzMjM2ODYuNDYuMC4w" target="_blank">
-    <img style="width:100px; height:100px" src="https://www.linkedin.com/in/chukwuemeka-aham-dev/overlay/1721324127201/single-media-viewer?type=IMAGE&profileId=ACoAAEQpafMBTirdDcj3O42yKOXv29khPukx3ko&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BEOxrMXAnRC6uGyBIpZHEWg%3D%3D" />
+    <img style="width:100px; height:100px" src="https://media.licdn.com/dms/image/D4D2DAQGOyuqqWT7dMg/profile-treasury-image-shrink_1920_1920/0/1721324064541?e=1721934000&v=beta&t=nxBalrVuXAncQG952BeS_IqpoFmxoxzbPj1HWKHJq-c" />
   </a>
 </div>
 
