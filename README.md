@@ -75,16 +75,18 @@ Experienced cloud computing and software development professional who excel at d
 
 <br/><br/>
 <hr/>
+<style>
+  .overflow-container {
+    max-height: 300px;
+    overflow-y: auto;
+    background-color: #f4f4f4;
+    padding: 1rem;
+    border-radius: 4px;
+  }
+</style>
+<div class="overflow-container">
 
 # 🖨 Technologies
-
-### 🚍 Communication
-
-|                                                        Technology Icon                                                        | Technology Name |
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"> |      HTTP       |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png"> |    websocket    | 
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"> |      REST       | 
 
 ### 🧰 Version Control
 
@@ -323,7 +325,8 @@ Experienced cloud computing and software development professional who excel at d
 | <img height="50" src=""> |  Mapbox |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"> |     MatLab     |
 
-
+ 
+</div>
 <hr/>
 
 <h3 align="left">
