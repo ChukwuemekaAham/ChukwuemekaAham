@@ -75,16 +75,8 @@ Experienced cloud computing and software development professional who excel at d
 
 <br/><br/>
 <hr/>
-<style>
-  .overflow-container {
-    max-height: 300px;
-    overflow-y: auto;
-    background-color: #f4f4f4;
-    padding: 1rem;
-    border-radius: 4px;
-  }
-</style>
-<div class="overflow-container">
+
+<div style="max-height: 300px; overflow-y: auto; background-color: #f4f4f4; padding: 1rem; border-radius: 4px;">
 
 # 🖨 Technologies
 
