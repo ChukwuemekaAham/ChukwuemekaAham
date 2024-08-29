@@ -11,7 +11,7 @@ Experienced cloud computing and software development professional who excel at d
 <br/>
 
 - 🌱 I’m currently learning **Large Language Models and MLOps on DataTalks Club (Zoomcamp 2024 Cohort)** and **Google Cloud Platform**
-- 👯 I’m looking to collaborate on project within the **Software Development and Cloud Computing Space** 
+- 👯 I’m looking to collaborate on project within the **Software Development, Data Analytics and Cloud Computing Space** 
 
  <hr/>
  
