@@ -5,7 +5,7 @@
 
 Experienced cloud computing and software development professional who excel at developing highly scalable, robust, secured and dynamic solutions, in fast-paced environments while collaborating with cross-functional teams, leveraging the right technologies. Continuously work to improve his problem-solving abilities through trainings.
 
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+roles+such+as;+Cloud+/+DevOps+Engineer;+Data+Engineer;+Geospatial+Data+Engineer;+Cloud+Developer;+React(Nextjs)+Developer;+Web+Developer;+Software+Developer"/>
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+roles+such+as;+Data+Engineer;+Geospatial+Data+Engineer;+Cloud+Engineer;+Cloud+Developer;+React(Nextjs)+Developer;+Web+Developer;+Software+Developer"/>
 </h1>
 
 <br/>
