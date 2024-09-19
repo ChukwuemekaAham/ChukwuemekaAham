@@ -17,15 +17,14 @@ Experienced cloud computing and software development professional who excel at d
  
 ## 📚 Portfolio
 
-<a href="https://github.com/ChukwuemekaAham?tab=repositories" target="_blank">
-     <img src="https://img.shields.io/badge/Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
-  </a>
-
-<hr/>
-
 <a href="https://github.com/ChukwuemekaAham/AWS-GCP-Data-Analytics-ML-GIS" target="_blank">
      <img src="https://img.shields.io/badge/Data Engineering Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
  </a>
+
+<hr/>
+<a href="https://github.com/ChukwuemekaAham?tab=repositories" target="_blank">
+     <img src="https://img.shields.io/badge/Other Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
+  </a>
 
 <hr/>
 
