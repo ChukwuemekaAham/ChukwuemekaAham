@@ -31,7 +31,7 @@ Experienced cloud computing and software development professional who excel at d
      <img src="https://img.shields.io/badge/DevOps/CI-CD Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
   </a>
 
-   <a href="https://github.com/ChukwuemekaAham/alx-t-cloud-developer-nanodegree-udacity" target="_blank">
+   <a href="https://github.com/ChukwuemekaAham/React-Nextjs-Apps" target="_blank">
      <img src="https://img.shields.io/badge/React(Nextjs) Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
   </a>
 
