@@ -23,8 +23,8 @@ Experienced cloud computing and software development professional who excel at d
 
 <hr/>
 
-<a href="https://github.com/ChukwuemekaAham/AWS-GCP-Data-Analytics-ML-GIS" target="_blank">
-     <img src="https://img.shields.io/badge/GCP Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
+<a href="https://github.com/ChukwuemekaAham/Cloud-GCP-Projects" target="_blank">
+     <img src="https://img.shields.io/badge/GCP Training and Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
  </a>
 
 <hr/>
