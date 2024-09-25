@@ -28,9 +28,10 @@ Experienced cloud computing and software development professional who excel at d
  </a>
 
 <hr/>
+
  <a href="https://github.com/ChukwuemekaAham/cloud_aws_gcp_k8s_devops_projects" target="_blank">
-     <img src="https://img.shields.io/badge/DevOps-AWS-GCP Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
-  </a>
+     <img src="https://img.shields.io/badge/DevOps AWS GCP Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
+ </a>
   
 <a href="https://github.com/ChukwuemekaAham/alx-t-cloud-developer-nanodegree-udacity" target="_blank">
      <img src="https://img.shields.io/badge/Cloud Developer Projects-white?style=for-the-badge&logo=todoist&logoColor=black" /> 
