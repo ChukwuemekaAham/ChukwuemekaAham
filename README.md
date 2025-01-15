@@ -10,7 +10,7 @@ Experienced cloud computing and software development professional who excel at d
 
 <br/>
 
-- 🌱 I’m currently learning **Data Engineering** on **Amazon Web Services**
+- 🌱 I’m currently learning **DataOps and MLOps** on **Amazon Web Services**
 - 👯 I’m looking to collaborate on projects within the **Software Development and Cloud Computing Space** 
 
  <hr/>
