@@ -10,8 +10,8 @@ Experienced cloud computing and software development professional who excel at d
 
 <br/>
 
-- 🌱 I’m currently learning **Large Language Models and MLOps on DataTalks Club (Zoomcamp 2024 Cohort)** and **Google Cloud Platform**
-- 👯 I’m looking to collaborate on project within the **Software Development, Data Analytics and Cloud Computing Space** 
+- 🌱 I’m currently learning **Data Engineering** on **Amazon Web Services**
+- 👯 I’m looking to collaborate on projects within the **Software Development and Cloud Computing Space** 
 
  <hr/>
  
@@ -53,6 +53,10 @@ Experienced cloud computing and software development professional who excel at d
 
 ## 🏄 Cloud Badges / Certifications
 <div align="left"> 
+
+  <a href="https://www.credly.com/badges/98d3cd2e-9cfd-48e0-b3e1-5f7f04d337b3" target="_blank">
+    <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
+  </a>
  <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" target="_blank">
     <img style="width:100px; height:100px" src="https://media.licdn.com/dms/image/D560BAQFV-ds_iFfVSQ/company-logo_100_100/0/1698660876286?e=1727308800&v=beta&t=okrWid8Jx5wUIsqZWk-qYA8IDde6uKjkgNG0s6YwDRc" />
   </a>
