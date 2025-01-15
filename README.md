@@ -58,7 +58,7 @@ Experienced cloud computing and software development professional who excel at d
     <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
   </a>
  <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" target="_blank">
-    <img style="width:100px; height:100px" src="https://media.licdn.com/dms/image/D560BAQFV-ds_iFfVSQ/company-logo_100_100/0/1698660876286?e=1727308800&v=beta&t=okrWid8Jx5wUIsqZWk-qYA8IDde6uKjkgNG0s6YwDRc" />
+    <img style="width:100px; height:100px" src="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" />
   </a>
  <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
     <img style="width:100px; height:100px" src="https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_100_100/0/1670264051233/amazon_web_services_logo?e=1727308800&v=beta&t=jGvrjJN5fl7XciwmwQISGT0uTWVPc0x6ycAdUBDkCa4" />
