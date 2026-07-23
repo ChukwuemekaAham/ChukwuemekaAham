@@ -60,7 +60,7 @@ Experienced cloud computing and software development professional who excel at d
     <img style="width:100px; height:100px" src="https://cdn.qwiklabs.com/KzG9qc6s7RDqvbB8BcWWeP%2FBc39Umwto%2BfF4LuAMfxI%3D" />
   </a>
  <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
-    <img style="width:100px; height:100px" src="https://drive.google.com/file/d/16hTLyVAqw-iTjSkcYQ4o4XbZXGYREx06/view?usp=sharing" />
+    <img style="width:100px; height:100px" src="https://drive.google.com/file/d/1gya2eZ2g9cQovFqVIGgDhG_0Ymwo6Q0E/view?usp=sharing" />
   </a>
   <a href="https://www.credly.com/badges/76393b4f-ba2a-4c4d-8368-de018d2f520d" target="_blank">
     <img style="width:100px; height:100px" src="https://images.credly.com/size/680x680/images/8f006312-3154-45bf-a845-4a043641e83c/blob" />
