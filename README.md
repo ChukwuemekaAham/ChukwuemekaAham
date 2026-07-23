@@ -57,10 +57,10 @@ Experienced cloud computing and software development professional who excel at d
     <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
   </a>
  <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" target="_blank">
-    <img style="width:100px; height:100px" src="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" />
+    <img style="width:100px; height:100px" src="https://partner.skills.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0/badges/3360777" />
   </a>
  <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
-    <img style="width:100px; height:100px" src="https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_100_100/0/1670264051233/amazon_web_services_logo?e=1727308800&v=beta&t=jGvrjJN5fl7XciwmwQISGT0uTWVPc0x6ycAdUBDkCa4" />
+    <img style="width:100px; height:100px" src="https://drive.google.com/file/d/16hTLyVAqw-iTjSkcYQ4o4XbZXGYREx06/view?usp=sharing" />
   </a>
   <a href="https://www.credly.com/badges/76393b4f-ba2a-4c4d-8368-de018d2f520d" target="_blank">
     <img style="width:100px; height:100px" src="https://images.credly.com/size/680x680/images/8f006312-3154-45bf-a845-4a043641e83c/blob" />
@@ -83,13 +83,33 @@ Experienced cloud computing and software development professional who excel at d
     <img style="width:100px; height:100px" src="https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/7aa9b5be-eddc-4eb8-90a3-d67cf145a82b.svg" />
   </a>
    <a href="https://certificate.datatalks.club/dezoomcamp/2024/5ef26c60dac8e38e085b7a7b57cd62bf0e35ee24.pdf" target="_blank">
-    <img style="width:100px; height:100px" src="https://media.licdn.com/dms/image/C4D0BAQFY84TXDGjQTA/company-logo_200_200/0/1640896517353/datatalks_club_logo?e=1727913600&v=beta&t=vky707u8HXuatU7UGHTOM4fHB23PJrBmPSHE-XmpGJ4" />
+    <img style="width:100px; height:100px" src="https://drive.google.com/file/d/138dkGo8uUAGGGrwvRsFF3TiOLooRXpBY/view?usp=sharing" />
+  </a>
+   <a href="https://drive.google.com/file/d/1WTVonNSehTUY8T-jbfgvY-7zVEnDgFB6/view?usp=sharing" target="_blank">
+    <img style="width:100px; height:100px" src="https://drive.google.com/file/d/1WTVonNSehTUY8T-jbfgvY-7zVEnDgFB6/view?usp=sharing" />
+  </a>
+ <a href="https://drive.google.com/file/d/1BFeEOcCovU6V8EZAgiRRqQHhG0bL2aVZ/view?usp=sharing" target="_blank">
+    <img style="width:100px; height:100px" src="https://drive.google.com/file/d/1BFeEOcCovU6V8EZAgiRRqQHhG0bL2aVZ/view?usp=sharing" />
+  </a>
+    <a href="https://drive.google.com/file/d/1cCrnaPPbE0BCl-bKOyAqwHS1u3CkDyer/view?usp=sharing" target="_blank">
+    <img style="width:100px; height:100px" src="https://drive.google.com/file/d/1cCrnaPPbE0BCl-bKOyAqwHS1u3CkDyer/view?usp=sharing" />
   </a>
    <a href="https://www.credly.com/badges/95449fe4-8ddc-4a69-b2c1-18f42746a586" target="_blank">
     <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/c0b439e5-79d5-498e-abc9-2b71cdf08c34/image.png" />
   </a>
    <a href="https://www.credly.com/badges/2d7b431f-42ae-4def-9cfb-2ac1eff8baef" target="_blank">
     <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" />
+  </a>
+    <a href="https://drive.google.com/file/d/1ksO8fVaisMHZCFhFAn0W5vqlHDwXWL0A/view?usp=sharing" target="_blank">
+    <img style="width:100px; height:100px" src="https://drive.google.com/file/d/1ksO8fVaisMHZCFhFAn0W5vqlHDwXWL0A/view?usp=sharing" />
+  </a>
+   </a>
+    <a href="https://drive.google.com/file/d/1T4ly4azVAFo7ABP3HdNVF-hbA-tQX4ty/view?usp=sharing" target="_blank">
+    <img style="width:100px; height:100px" src="https://drive.google.com/file/d/1T4ly4azVAFo7ABP3HdNVF-hbA-tQX4ty/view?usp=sharing" />
+  </a>
+   </a>
+    <a href="https://drive.google.com/file/d/15cxm-BlbpslzrX9Fm_mt9V3h7Zvn2_Rd/view?usp=sharing" target="_blank">
+    <img style="width:100px; height:100px" src="https://drive.google.com/file/d/15cxm-BlbpslzrX9Fm_mt9V3h7Zvn2_Rd/view?usp=sharing" />
   </a>
 </div>
 
