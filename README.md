@@ -57,7 +57,7 @@ Experienced cloud computing and software development professional who excel at d
     <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" />
   </a>
  <a href="https://partner.cloudskillsboost.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0" target="_blank">
-    <img style="width:100px; height:100px" src="https://partner.skills.google/public_profiles/51f4be5e-4a78-4727-ac47-c2cf66032db0/badges/3360777" />
+    <img style="width:100px; height:100px" src="https://cdn.qwiklabs.com/KzG9qc6s7RDqvbB8BcWWeP%2FBc39Umwto%2BfF4LuAMfxI%3D" />
   </a>
  <a href="https://drive.google.com/drive/folders/1pfJdC5E7RRLVQ3TSHBITQRFwjpE55nK1?usp=sharing" target="_blank">
     <img style="width:100px; height:100px" src="https://drive.google.com/file/d/16hTLyVAqw-iTjSkcYQ4o4XbZXGYREx06/view?usp=sharing" />
