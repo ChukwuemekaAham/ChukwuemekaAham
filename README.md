@@ -63,10 +63,10 @@ Experienced cloud computing and software development professional who excel at d
     <img style="width:100px; height:100px" src="https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_100_100/0/1670264051233/amazon_web_services_logo?e=1727308800&v=beta&t=jGvrjJN5fl7XciwmwQISGT0uTWVPc0x6ycAdUBDkCa4" />
   </a>
   <a href="https://www.credly.com/badges/76393b4f-ba2a-4c4d-8368-de018d2f520d" target="_blank">
-    <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" />
+    <img style="width:100px; height:100px" src="https://images.credly.com/size/680x680/images/8f006312-3154-45bf-a845-4a043641e83c/blob" />
   </a>
   <a href="https://www.credly.com/badges/7e336078-557e-408f-871e-743b8be0006a" target="_blank">
-    <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/9dc6345e-db80-44de-bb44-0c78775e53fa/image.png" />
+    <img style="width:100px; height:100px" src="https://images.credly.com/size/680x680/images/1ba189ae-4afb-4c3b-ae89-f3da3c054f05/blob" />
   </a>
   <a href="https://www.credly.com/badges/21877b03-2562-465a-a316-624fb678c411" target="_blank">
     <img style="width:100px; height:100px" src="https://images.credly.com/size/340x340/images/b870667f-00a3-48d7-b988-9c02b441b883/image.png" />
